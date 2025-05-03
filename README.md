@@ -24,9 +24,9 @@ I am developing a term paper on the topic of top down game in the genre Dark Sou
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/wra1th_k1ng)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
-
+markdown
+### 📈 GitHub Activity Graph:
+![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user)
 
 
 
