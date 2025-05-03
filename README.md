@@ -8,7 +8,7 @@ I am developing a term paper on the topic of top down game in the genre Dark Sou
 
 ![Gif](https://github.com/IlyaGhoul/IlyaGhoul/blob/main/Assets/This%20chill%20game%20character%20(1).gif)
 
-![Git](https://github.com/IlyaGhoul/Little-dark-age-Top-Down-2D/tree/main)
+(https://github.com/IlyaGhoul/Little-dark-age-Top-Down-2D/tree/main)
 
 ## Languages and Tools
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity&logoColor=unity)
