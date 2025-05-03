@@ -1,6 +1,6 @@
 ![Header](https://github.com/IlyaGhoul/IlyaGhoul/blob/main/Assets/YN4Jmq_ySsM.jpg)
 
-## I'm a beginner Unity developer and C# developer
+## HI 👋 I'm a beginner Unity developer and C# developer
 
 ## Working now
 I am developing a term paper on the topic of top down game in the genre Dark Souls Like.
@@ -24,9 +24,7 @@ I am developing a term paper on the topic of top down game in the genre Dark Sou
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/wra1th_k1ng)
 
 
-markdown
-### 📈 GitHub Activity Graph:
-![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user)
+
 
 
 
