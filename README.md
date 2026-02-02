@@ -12,7 +12,7 @@ This is my game, "Dark Souls Like," and there will be a link to it below.
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=)
-![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![PyQt6](https://img.shields.io/badge/-PyQt6-090909?style=for-the-badge&logo=python&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity&logoColor=unity)
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=C%23&logoColor=purple)
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
