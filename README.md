@@ -3,7 +3,7 @@
 ## HI 👋 I'm a beginner Unity developer and C# developer
 
 ## Working now
-I am developing a term paper on the topic of top down game in the genre Dark Souls Like.
+This is my game.
 
 
 ![Gif](https://github.com/IlyaGhoul/IlyaGhoul/blob/main/Assets/This%20chill%20game%20character%20(1).gif)
