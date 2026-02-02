@@ -1,6 +1,6 @@
 ![Header](https://github.com/IlyaGhoul/IlyaGhoul/blob/main/Assets/YN4Jmq_ySsM.jpg)
 
-## HI 👋 I'm a beginner Unity developer and C# developer
+## HI 👋 I'm a Python becand developer and can create games using Unity.
 
 ## Working now
 This is my game, "Dark Souls Like," and there will be a link to it below.
